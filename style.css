@@ -1,0 +1,14 @@
+.button,
+.modal {
+    text-align: center;
+}
+
+.btn {
+    width: 160px;
+    font-size: 24px;
+    background-color: white;
+    color: black;
+    border-radius: 16px;
+    cursor: pointer;
+    user-select: none;
+}
